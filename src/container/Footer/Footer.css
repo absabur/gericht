@@ -28,6 +28,10 @@
     justify-content: center;
 }
 
+.app__footer-links_logo img:first-child {
+    width: 290px;
+}
+
 .app__footer-headtext {
     font-size: 50px;
     font-family: var(--font-base);
